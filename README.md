@@ -4,7 +4,7 @@
 - Mukul Karanwal
 - Abhinav Kumar Bharti
 - Sagar Kumar
-- Mahendra Kumar
+- Mahendra Kumar bkl
 - Sravan S Sankar
 1. ### IOT & Microcomputers 
       - Assigned to Mahendra Kumar and Mukul Karanwal
